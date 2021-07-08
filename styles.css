@@ -325,8 +325,3 @@ li {
 @media (min-width: 1200px) {
   
 }
-
-.reto_02_s7 > *{
-  display: flex;
-  align-items: center;
-}
